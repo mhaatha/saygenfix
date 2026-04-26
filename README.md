@@ -1,4 +1,4 @@
-# Saygenfix
+# SayGenFix
 
 Saygenfix is an AI-powered online examination platform designed to streamline the process of creating, distributing, and grading exams. Built with Go, it provides a clean, role-based interface for both teachers and students.
 
